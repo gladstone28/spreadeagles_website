@@ -1,0 +1,46 @@
+<section id="ecommerce">
+  <h2>Online Store</h2>
+  <form id="checkout-form">
+    <h3>Your Order</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Product</th>
+          <th>Quantity</th>
+          <th>Price</th>
+          <th>Total</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="3">Subtotal</td>
+          <td id="subtotal"></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td colspan="3">Tax (5%)</td>
+          <td id="tax"></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td colspan="3">Total</td>
+          <td id="total"></td>
+          <td></td>
+        </tr>
+      </tfoot>
+    </table>
+    <div id="checkout-form-container">
+      <input type="text" id="name" placeholder="Full Name">
+      <input type="email" id="email" placeholder="Email">
+      <input type="text" id="address" placeholder="Address">
+      <input type="text" id="city" placeholder="City">
+      <input type="text" id="state" placeholder="State">
+      <input type="text" id="zip" placeholder="Zip Code">
+      <input type="tel" id="phone" placeholder="Phone">
+      <button id="place-order-button" type="submit">Place Order</button>
+    </div>
+  </form>
+</section>
