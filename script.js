@@ -52,6 +52,12 @@ document.addEventListener("DOMContentLoaded", function() {
             image: "sofa.webp",
         },
         {
+            name: "Chest of Drawers",
+            price: "J$119,850.00",
+            description: "Experience the ultimate comfort and relaxation with our cozy bed. Crafted with the finest materials, this bed will provide you with a good night's sleep like never before.",
+            image: "chest-of-drawers-spread-eagles.jpeg",
+        },
+        {
             name: "Cozy Bed",
             price: "J$119,850.00",
             description: "Experience the ultimate comfort and relaxation with our cozy bed. Crafted with the finest materials, this bed will provide you with a good night's sleep like never before.",
