@@ -26,6 +26,38 @@ document.addEventListener("DOMContentLoaded", function() {
             description: "Meticulously crafted from the finest, hand-selected materials, this stunning dining room table promises to elevate your dining experience to new heights. With its sleek, polished surface, the table becomes an enchanting focal point, captivating both guests and family members alike.",
             image: "table2.jpg",
         },
+
+        {
+            name: "Elegant Breakfront",
+            price: "J$194,850.00",
+            description: "Enhance the beauty and functionality of your living space with our elegant breakfront. Display your treasured items and store your essentials in style with this timeless piece.",
+            image: "breakfront.jpg",
+        },
+        {
+            name: "Classic Bookcase",
+            price: "J$89,850.00",
+            description: "Organize your books and show off your literary collection with our classic bookcase. This bookcase blends style and practicality to elevate any room.",
+            image: "bookcase.jpg",
+        },
+        {
+            name: "Plush Rocking Chair",
+            price: "J$44,850.00",
+            description: "Indulge in pure relaxation with our plush rocking chair. Perfect for unwinding after a long day, this chair will become your favorite spot in the house.",
+            image: "rocking.webp",
+        },
+        {
+            name: "Elegant Sofa",
+            price: "J$74,850.00",
+            description: "A comfortable and stylish sofa for your living room. Relax in luxury and add a touch of elegance to your home décor.",
+            image: "sofa.webp",
+        },
+        {
+            name: "Cozy Bed",
+            price: "J$119,850.00",
+            description: "Experience the ultimate comfort and relaxation with our cozy bed. Crafted with the finest materials, this bed will provide you with a good night's sleep like never before.",
+            image: "Bed-spread-eagles.jpeg",
+        },
+
         // Add more furniture items here as needed
     ];
 
