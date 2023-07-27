@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
             price: "J$60,000.00",
             description: "Our skillfully designed and crafted night stand is the epitome of sophistication and style.Its sleek, contemporary design and space saving innovation offers support to restful night's sleep.",
             image: "path/to/dining-table-image.jpg",
-            image: "side-table-spread-eagles.jpeg",
+            image: "night-table.jpeg",
         },
         {
             name: "Wardrobe",
