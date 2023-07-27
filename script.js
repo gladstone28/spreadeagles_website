@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function() {
             name: "Cozy Bed",
             price: "J$119,850.00",
             description: "Experience the ultimate comfort and relaxation with our cozy bed. Crafted with the finest materials, this bed will provide you with a good night's sleep like never before.",
-            image: "Bed-spread-eagles.jpeg",
+            image: "Bed-spread-eagles.jpeg"
         },
 
         // Add more furniture items here as needed
