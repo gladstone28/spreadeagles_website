@@ -22,20 +22,20 @@ document.addEventListener("DOMContentLoaded", function() {
         {
             name: "Dresser with 2 night stands",
             price: "J$110,000.00",
-            description: "Our carefully crafted Dresser is a luxurious addition to any living space. Its sleek, contemporary design and style offers aesthetic beauty to any space it occupies.",
+            description: "Immerse yourself in the world of dreams with our Elegant Dreamweaver Dresser. Meticulously handcrafted with an artistic touch, this dresser transcends the boundaries of ordinary furniture. Its ethereal design and enchanting curves will transport you to a realm of beauty and grace. Step into your bedroom and witness the magic unfold as this masterpiece adorns your space like a surreal work of art. Elevate your living space with the epitome of luxury and sophistication.",
             image: "dresser-2-night-stands.jpeg",
         },
         {
             name: "King Size Bed with a pair of night stands",
             price: "J$185,000.00",
-            description: "Experience the ultimate comfort and relaxation with our cozy bed. Crafted with the finest materials, this bed will provide you with a good night's sleep like never before.",
+            description: "Experience a haven of serenity and celestial comfort with our exclusive Serenity Haven King Size Bed. This majestic bed is not just a place to rest your head; it's a sanctuary of tranquility that transcends the boundaries of ordinary sleep. Crafted with the finest materials, the plush mattress cradles you in cloud-like softness, lulling you into a peaceful slumber.",
             image: "bed-with-2-night-stand.jpeg",
         },
 
         {
             name: "Chest of Drawers",
             price: "J$119,850.00",
-            description: "This chest-of-drawers does exactly what it promises.",
+            description: "This remarkable piece of furniture is not just a storage solution; it's an extraordinary work of art that demands attention. Crafted with utmost precision, its captivating facade features intricate carvings, reminiscent of ancient symbols of prosperity and abundance. As you glide the drawers open, a sense of wonder envelops you, revealing ample space to store your precious possessions. Add a touch of opulence to your home with the Majestic Treasurium, and immerse yourself in the luxury and splendor it bestows upon your living space.",
             image: "chest-of-drawers-spread-eagles.jpeg",
         },
 
