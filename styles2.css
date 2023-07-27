@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    padding: 1rem;
+}
+
+.furniture-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+/* Use a fixed aspect ratio to ensure even-sized images */
+
+.furniture-item img {
+    max-width: 100%;
+    height: auto;
+    /* Set a fixed aspect ratio (16:9 in this example) */
+    padding-bottom: 56.25%;
+    object-fit: cover;
+}
+
+.furniture-item h2 {
+    margin-top: 0;
+}
+
+.furniture-item p {
+    margin-bottom: 0.5rem;
+}
+
+
+/* Responsive styles */
+
+@media (min-width: 768px) {
+    .furniture-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .furniture-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
