@@ -21,13 +21,13 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         {
             name: "Dresser with 2 night stands",
-            price: "J$110,000.00",
+            price: "J$160,000.00",
             description: "Immerse yourself in the world of dreams with our Elegant Dreamweaver Dresser. Meticulously handcrafted with an artistic touch, this dresser transcends the boundaries of ordinary furniture. Its ethereal design and enchanting curves will transport you to a realm of beauty and grace. Step into your bedroom and witness the magic unfold as this masterpiece adorns your space like a surreal work of art. Elevate your living space with the epitome of luxury and sophistication.",
             image: "dresser-2-night-stands.jpeg",
         },
         {
             name: "King Size Bed with a pair of night stands",
-            price: "J$185,000.00",
+            price: "J$250,000.00",
             description: "Experience a haven of serenity and celestial comfort with our exclusive Serenity Haven King Size Bed. This majestic bed is not just a place to rest your head; it's a sanctuary of tranquility that transcends the boundaries of ordinary sleep. Crafted with the finest materials, the plush mattress cradles you in cloud-like softness, lulling you into a peaceful slumber.",
             image: "bed-with-2-night-stand.jpeg",
         },
