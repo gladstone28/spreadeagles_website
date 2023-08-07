@@ -90,3 +90,19 @@ footer {
         padding: 20px 10px;
     }
 }
+
+/* Add this CSS to your existing styles */
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
