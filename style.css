@@ -64,6 +64,44 @@ footer {
     text-align: center;
 }
 
+
+/* Add this CSS to your existing styles */
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* Add this CSS to your existing styles */
+
+.about-section {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    flex: 1 1 40%;
+    /* Adjust this value to control the image width */
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.content {
+    flex: 1 1 60%;
+    /* Adjust this value to control the content width */
+    padding: 20px;
+}
+
 @media (max-width: 767px) {
     /* Make the header menu toggleable */
     header nav {
@@ -90,40 +128,3 @@ footer {
         padding: 20px 10px;
     }
 }
-
-/* Add this CSS to your existing styles */
-.image-container {
-    text-align: center;
-}
-
-.image-container img {
-    max-width: 100%;
-    height: auto;
-}
-
-/* Add this CSS to your existing styles */
-.about-section {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-}
-
-.image-container {
-    flex: 1 1 40%; /* Adjust this value to control the image width */
-    text-align: center;
-}
-
-.image-container img {
-    max-width: 100%;
-    height: auto;
-}
-
-.content {
-    flex: 1 1 60%; /* Adjust this value to control the content width */
-    padding: 20px;
-}
-
-
-
-
-
